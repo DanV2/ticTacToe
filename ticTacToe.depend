@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1293155817 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\calculatepriority.c
+	"ticTacToe.h"
+
+1293155760 c:\users\daniel\documents\my dropbox\projects\tictactoe\include\tictactoe.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+
+1273901244 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\checkwin.c
+	"ticTacToe.h"
+
+1283304749 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\drawboard.c
+	"ticTacToe.h"
+
+1273885303 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\freeboard.c
+	"ticTacToe.h"
+
+1283304988 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\initializeboard.c
+	"ticTacToe.h"
+
+1293155706 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\makemovecomp.c
+	"ticTacToe.h"
+
+1272918387 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\printerror.c
+	<stdio.h>
+	<stdlib.h>
+
+1291500962 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\tictactoe.c
+	"ticTacToe.h"
+	<unistd.h>
+	<string.h>
+
+1291497795 source:c:\users\daniel\documents\my dropbox\projects\tictactoe\src\makemoveplayer.c
+	"ticTacToe.h"
+	<string.h>
+	<unistd.h>
+
+1293155817 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\calculatepriority.c
+	"ticTacToe.h"
+
+1293156054 c:\users\daniel\documents\my dropbox\projects\tictactoegui\include\tictactoe.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"SDL.h"
+
+1293155850 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\checkwin.c
+	"ticTacToe.h"
+
+1283304749 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\drawboard.c
+	"ticTacToe.h"
+
+1273885303 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\freeboard.c
+	"ticTacToe.h"
+
+1283304988 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\initializeboard.c
+	"ticTacToe.h"
+
+1293155706 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\makemovecomp.c
+	"ticTacToe.h"
+
+1291497795 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\makemoveplayer.c
+	"ticTacToe.h"
+	<string.h>
+	<unistd.h>
+
+1272918387 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\printerror.c
+	<stdio.h>
+	<stdlib.h>
+
+1291500962 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\tictactoe.c
+	"ticTacToe.h"
+	<unistd.h>
+	<string.h>
+

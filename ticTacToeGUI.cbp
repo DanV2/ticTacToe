@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ticTacToeGUI" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\ticTacToe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\ticTacToe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include\SDLFn.h" />
+		<Unit filename="include\ticTacToe.h" />
+		<Unit filename="src\SDLFn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\calculatePriority.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\checkWin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\freeBoard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\initializeBoard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\makeMoveComp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\makeMovePlayer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\printError.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src\ticTacToe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

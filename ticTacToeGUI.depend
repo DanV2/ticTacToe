@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1293238206 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\sdlfn.c
+	"SDL.h"
+	"SDL_image.h"
+	"SDLFn.h"
+
+1293237619 c:\users\daniel\documents\my dropbox\projects\tictactoegui\sdlfn.h
+	"SDL.h"
+	"SDL_image.h"
+
+1293394528 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\calculatepriority.c
+	"ticTacToe.h"
+
+1293497939 c:\users\daniel\documents\my dropbox\projects\tictactoegui\include\tictactoe.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"SDL.h"
+	"SDL_image.h"
+
+1293155850 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\checkwin.c
+	"ticTacToe.h"
+
+1293394528 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\drawboard.c
+	"ticTacToe.h"
+
+1273885303 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\freeboard.c
+	"ticTacToe.h"
+
+1293491238 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\makemovecomp.c
+	"ticTacToe.h"
+	"SDLFn.h"
+
+1293500053 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\makemoveplayer.c
+	"ticTacToe.h"
+	"SDLFn.h"
+	"SDL.h"
+	<string.h>
+	<unistd.h>
+
+1272918387 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\printerror.c
+	<stdio.h>
+	<stdlib.h>
+
+1293499273 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\tictactoe.c
+	"ticTacToe.h"
+	<unistd.h>
+	<string.h>
+	"SDLFn.h"
+	"SDL.h"
+	"SDL_ttf.h"
+
+1293499474 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\sdlfn.c
+	"SDL.h"
+	"SDL_image.h"
+	"SDLFn.h"
+	"SDL_ttf.h"
+	"ticTacToe.h"
+
+1293499452 c:\users\daniel\documents\my dropbox\projects\tictactoegui\include\sdlfn.h
+	"ticTacToe.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1293500037 source:c:\users\daniel\documents\my dropbox\projects\tictactoegui\src\initializeboard.c
+	"ticTacToe.h"
+	"SDLFn.h"
+	"SDL.h"
+
